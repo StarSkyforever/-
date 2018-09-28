@@ -4,7 +4,7 @@ import org.litepal.crud.DataSupport;
 
 import java.util.Date;
 
-public class items extends DataSupport {
+public class items{
     private int id;
 
     private Date add_time;

@@ -4,7 +4,7 @@ import org.litepal.crud.DataSupport;
 
 import java.util.Date;
 
-public class Categories extends DataSupport {
+public class Categories{
 
     private int id;
 

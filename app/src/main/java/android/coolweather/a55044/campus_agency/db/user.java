@@ -4,7 +4,7 @@ import org.litepal.crud.DataSupport;
 
 import java.util.Date;
 
-public class user extends DataSupport{
+public class user{
 
     private int Student_id;
 

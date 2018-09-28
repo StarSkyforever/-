@@ -4,7 +4,7 @@ import org.litepal.crud.DataSupport;
 
 import java.util.Date;
 
-public class admins extends DataSupport {
+public class admins {
     private int id;
 
     private String account_name;

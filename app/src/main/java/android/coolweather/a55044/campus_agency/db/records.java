@@ -1,6 +1,6 @@
 package android.coolweather.a55044.campus_agency.db;
 
-public class records {
+public class records{
 
     private int id;
 
